@@ -1,2 +1,2 @@
-# EXE-Building
-Experimenting with executables and compiled assembly.
+# Portable Executable Building
+Repository for creating a Windows program just through using hexadecimals.
